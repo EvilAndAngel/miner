@@ -1,1 +1,1 @@
-lol
+echo "lol"
